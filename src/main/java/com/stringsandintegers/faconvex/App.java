@@ -8,7 +8,7 @@ package com.stringsandintegers.faconvex;
 import com.stringsandintegers.faconvex.view.FaconvexMainFrame;
 /**
  *
- * @author Daniele Porcelli
+ * @author Valmas
  */
 public class App {
 
