@@ -14,7 +14,7 @@ import java.io.IOException;
  * to export.
  * It's an abstraction about the actual document: it can
  * be a PDF, HTML, DOC (or other) file.
- * @author Daniele
+ * @author Valmas
  */
 public interface Document {
     
