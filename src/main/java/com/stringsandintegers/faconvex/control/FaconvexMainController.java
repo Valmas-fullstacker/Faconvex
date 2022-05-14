@@ -18,7 +18,7 @@ import java.util.List;
 
 /**
  *
- * @author Daniele Porcelli
+ * @author Valmas
  */
 public class FaconvexMainController {
     
