@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.LinkedList;
 /**
  *
- * @author Daniele Porcelli
+ * @author Valmas
  * This class holds the information of a specific conversation
  */
 public class Conversation {
