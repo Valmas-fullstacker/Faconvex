@@ -9,7 +9,7 @@ import java.awt.Component;
 
 /**
  *
- * @author Daniele Porcelli
+ * @author Valmas
  */
 public class AboutFrame extends javax.swing.JFrame {
 
