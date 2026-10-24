@@ -18,7 +18,7 @@ import rst.pdfbox.layout.elements.render.VerticalLayoutHint;
 
 /**
  * This class creates a PDF file
- * @author Daniele
+ * @author Valmas
  */
 class DocumentPDF implements Document {
     
