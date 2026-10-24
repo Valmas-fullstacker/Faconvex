@@ -19,7 +19,7 @@ import java.io.IOException;
 
 /**
  *
- * @author Daniele Porcelli
+ * @author Valmas
  */
 public class FaconvexMainFrame extends javax.swing.JFrame {
 
