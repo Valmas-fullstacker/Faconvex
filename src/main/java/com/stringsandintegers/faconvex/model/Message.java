@@ -8,7 +8,7 @@ package com.stringsandintegers.faconvex.model;
 /** This class represents the message sent
  * by an interlocutor of the conversation. They can
  * be the owner of the account or their friend.
- * @author Daniele Porcelli
+ * @author Valmas
  */
 public class Message {
     /** The main constructor of the message
