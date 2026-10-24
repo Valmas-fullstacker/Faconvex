@@ -7,7 +7,7 @@ package com.stringsandintegers.faconvex.document;
 /**
  * This interface contains the costants used do specify the
  * type of output document desired.
- * @author Daniele
+ * @author Valmas
  */
 public interface DocumentCostantTypes {
     
