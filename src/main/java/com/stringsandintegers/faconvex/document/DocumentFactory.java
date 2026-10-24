@@ -9,7 +9,7 @@ import java.io.IOException;
 /**
  * Factory class used to create the instance of the output document.
  * 
- * @author Daniele
+ * @author Valmas
  */
 public class DocumentFactory {
     
