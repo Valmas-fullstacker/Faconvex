@@ -18,7 +18,7 @@ import java.util.Map;
 
 /**
  *
- * @author Daniele Porcelli
+ * @author Valmas
  * This class holds the conversations extracted from the "messages.html" file.
  */
 public class ConversationsList {
